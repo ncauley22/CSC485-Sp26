@@ -1,7 +1,7 @@
 # The Collegiate Chronicles
 
 ## The Lecture
-The Professor makes a plan to tech students how to build rockets.
+Professor X begins the semester with an ambitious plan for the class.
 
 ## The Students
 Each student has unique quirks and approaches to assignments, some more absurd than others.
