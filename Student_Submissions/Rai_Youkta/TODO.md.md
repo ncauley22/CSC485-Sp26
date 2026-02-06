@@ -40,10 +40,10 @@ Scrapp any suggestion that the professor had and hopefully complete my dataset.
 - [Check] Sleep
 - [Check] Plan classes for next week
 
-I was able to convert he JSON files into dataframes in R making them more easy to use for future graphs and analysis. 
+I was able to convert the JSON files into dataframes in R making them more easy to use for future graphs and analysis. 
 I plan to make graphs and find results that show difference between lower elo vs higher elo. I plan to compare their respected
 types, usage, and prefered teammates. I plan also to incorporat abilities and moves that the pokemom uses, but I currently
-have no idea of to approach in using them.
+have little idea towards the approach in using them.
 
 --- --- --- -------------------------------------------
 
